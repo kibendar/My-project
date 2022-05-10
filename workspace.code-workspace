@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\BeetRoot Courses"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My project"
+	}
+}
